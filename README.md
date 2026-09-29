@@ -18,7 +18,7 @@
 
 ### What it is
 
-GetAskAI is a free, ad-supported AI chat that works without an account. It answers in 11 languages, searches the web and shows numbered sources when a question needs current information, and reads PDFs and images without storing them.
+GetAskAI is a free, ad-supported AI chat that works without an account. It answers in 14 languages, searches the web and shows numbered sources when a question needs current information, and reads PDFs and images without storing them.
 
 No sign-up, no app, no credit card. Open the page and type.
 
